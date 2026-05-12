@@ -211,7 +211,7 @@ OPENROUTER_API_KEY=your_key
 ---
 
 # 👨‍💻 Author
-
+Abhishek Unnikrishnan
 Developed as a full-stack AI project integrating agentic workflows with human decision loops.
 
 ---
